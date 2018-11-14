@@ -1,0 +1,25 @@
+*.pyc
+*.pyo
+*.db
+*.project
+*.pydevproject
+.DS_Store
+.coverage
+build
+django_startproject.egg-info
+uploads/*
+logs
+/.settings/*.prefs
+/static/media/
+downloads
+CACHE
+*~
+/ipython_log.py
+.idea/
+# Node modules
+node_modules/
+# Uglified JavaScript, CSS and other static content
+docker-data/
+/dist/
+temp_dist/
+nodeenv/
